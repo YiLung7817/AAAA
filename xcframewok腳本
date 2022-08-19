@@ -1,3 +1,6 @@
+
+Test
+
 xcodebuild archive \
   -scheme "SKLKeychain" \
   -destination "generic/platform=iOS" \
